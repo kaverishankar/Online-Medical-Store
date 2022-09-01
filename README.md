@@ -7,4 +7,3 @@ Online Medical Store using MySQL, Php and Bootstrap
 3. Bootstrap (An HTML, CSS, and JS library)
 5. Php
 6. MySQL (An RDBMS that uses SQL)
-7. RASA
